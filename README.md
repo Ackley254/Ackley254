@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ackley254
 - 👀 I’m interested in..coding 
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...creating a Saas ptoject
+- 💞️ I’m looking to collaborate on ...creating a Saas project
 - 📫 How to reach me ...on my email philipsaidi7@gmail 
 
 <!---
